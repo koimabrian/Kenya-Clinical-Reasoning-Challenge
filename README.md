@@ -7,6 +7,18 @@ https://zindi.africa/competitions/kenya-clinical-reasoning-challenge/leaderboard
 https://zindi.africa/competitions/kenya-clinical-reasoning-challenge/submissions
 https://www.path.org/who-we-are/programs/digital-health/large-language-models-for-health-equity/
 
+ZINDI FILE
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/SampleSubmission.csv
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/manifest-37ac1cb3002e2d25fa612ef468101f6c20250407-27832-1ynal5z.json
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/test.csv
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/test_raw.csv
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/train.csv
+https://github.com/koimabrian/Kenya-Clinical-Reasoning-Challenge/blob/main/train_raw.csv
+
+I NEED A MODULAR SCALABLE STRUCTURE THAT I CAN BE ABLE TO TEST AND TRACK DIFFERENT MODELS PERFOMANCE AND ACCURACY LEVEL AND STORE RESULTS IN DB
+FOLLOW ZINDI COMPETITION GUIDELINES RULES
+
 TO DO:
 Phase 1
 
